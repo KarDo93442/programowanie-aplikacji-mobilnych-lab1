@@ -26,11 +26,11 @@
         <StackPanel>
             <Label Content="Conditions within:"/>
             <Label Content="next hour"/>
-            <Label Content="" Height="50"/>
+            <Label x:Name="lblNextHourDesc" Content="" Height="50"/>
             <Label Content="next 12 h"/>
-            <Label Content="" Height="50"/>
+            <Label x:Name="lblnext12hoursDesc" Content="" Height="50"/>
             <Label Content="next 5 days"/>
-            <Label x:Name="next5daysDesc" Content="" Height="50"/>
+            <Label x:Name="lblNext5daysDesc" Content="" Height="50"/>
         </StackPanel>
     </DockPanel>
 </Window>

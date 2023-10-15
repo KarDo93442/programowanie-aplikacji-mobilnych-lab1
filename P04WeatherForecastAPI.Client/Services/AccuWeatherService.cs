@@ -89,5 +89,41 @@ namespace P04WeatherForecastAPI.Client.Services
             }
         }
 
+        public async Task<NextForecast> GetNextHourDescription(string cityKey)
+        {
+            string uri = base_url + "/" + string.Format(next_hour_description_endpoint, cityKey, api_key, language);
+            using (HttpClient client = new HttpClient())
+            {
+                var response = await client.GetAsync(uri);
+                string json = await response.Content.ReadAsStringAsync();
+                NextForecast[] nextForecasts = JsonConvert.DeserializeObject<NextForecast[]>(json);
+                return nextForecasts.FirstOrDefault();
+            }
+        }
+
+        public async Task<NextForecast> GetNext12HourDescription(string cityKey)
+        {
+            string uri = base_url + "/" + string.Format(next_12h_description_endpoint, cityKey, api_key, language);
+            using (HttpClient client = new HttpClient())
+            {
+                var response = await client.GetAsync(uri);
+                string json = await response.Content.ReadAsStringAsync();
+                NextForecast[] nextForecasts = JsonConvert.DeserializeObject<NextForecast[]>(json);
+                return nextForecasts.FirstOrDefault();
+            }
+        }
+
+        public async Task<Forecast> GetNext5daysDesc(string cityKey)
+        {
+            string uri = base_url + "/" + string.Format(next_5days_description_endpoint, cityKey, api_key, language);
+            using (HttpClient client = new HttpClient())
+            {
+                var response = await client.GetAsync(uri);
+                string json = await response.Content.ReadAsStringAsync();
+                Forecast forecast= JsonConvert.DeserializeObject<Forecast>(json);
+                return forecast;
+            }
+        }
+
     }
 }
