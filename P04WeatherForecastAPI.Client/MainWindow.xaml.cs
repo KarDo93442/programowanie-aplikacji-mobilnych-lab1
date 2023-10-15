@@ -50,8 +50,14 @@ namespace P04WeatherForecastAPI.Client
             {
                 var weather = await accuWeatherService.GetCurrentConditions(selectedCity.Key);
                 lblCityName.Content = selectedCity.LocalizedName;
+
                 double tempValue = weather.Temperature.Metric.Value;
                 lblTemperatureValue.Content = Convert.ToString(tempValue);
+
+                var todaysweatherdesc = await accuWeatherService.GetTodaysDescription(selectedCity.Key);
+                lblTodaysDesc.Content = todaysweatherdesc.headline.text;
+
+
             }
         }
     }

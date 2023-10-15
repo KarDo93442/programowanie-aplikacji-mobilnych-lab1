@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:P04WeatherForecastAPI.Client"
         mc:Ignorable="d"
-        Title="MainWindow" Height="316" Width="529">
+        Title="MainWindow" Height="316" Width="761">
     <DockPanel>
         <StackPanel Width="150" DockPanel.Dock="Left">
             <Label Content="City:" ></Label>
@@ -13,23 +13,24 @@
             <Button x:Name="btnSearch" Content="Search" Click="btnSearch_Click"></Button>
             <ListBox x:Name="lbData" DisplayMemberPath="LocalizedName" SelectionChanged="lbData_SelectionChanged"></ListBox>
         </StackPanel>
-        <StackPanel Width="190">
+        <StackPanel Width="300">
             <Label HorizontalAlignment="Center" Content="Temperature for city:"></Label>
             <Label x:Name="lblCityName" HorizontalAlignment="Center" Content="..."></Label>
             <Label  HorizontalAlignment="Center" Content="is:"></Label>
             <Label x:Name="lblTemperatureValue" HorizontalAlignment="Center" Content=".."></Label>
             <Label Content="Today's weather description:"/>
-            <Label Content=""/>
+            <Label x:Name="lblTodaysDesc" Content="" Height="50"/>
             <Label Content="Yesterday's weather description:"/>
-            <Label Content=""/>
+            <Label Content="" Height="50"/>
         </StackPanel>
         <StackPanel>
             <Label Content="Conditions within:"/>
             <Label Content="next hour"/>
-            <Label Content=""/>
+            <Label Content="" Height="50"/>
             <Label Content="next 12 h"/>
-            <Label Content=""/>
+            <Label Content="" Height="50"/>
             <Label Content="next 5 days"/>
+            <Label x:Name="next5daysDesc" Content="" Height="50"/>
         </StackPanel>
     </DockPanel>
 </Window>

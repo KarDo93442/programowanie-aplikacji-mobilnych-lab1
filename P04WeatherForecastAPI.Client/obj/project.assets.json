@@ -624,11 +624,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Karol Taikhoa Do\\Downloads\\20Dzien11-master\\P04WeatherForecastAPI.Client\\P04WeatherForecastAPI.Client.csproj",
+      "projectUniqueName": "C:\\Users\\Karol Taikhoa Do\\Source\\Repos\\programowanie-aplikacji-mobilnych-lab1-local\\P04WeatherForecastAPI.Client\\P04WeatherForecastAPI.Client.csproj",
       "projectName": "P04WeatherForecastAPI.Client",
-      "projectPath": "C:\\Users\\Karol Taikhoa Do\\Downloads\\20Dzien11-master\\P04WeatherForecastAPI.Client\\P04WeatherForecastAPI.Client.csproj",
+      "projectPath": "C:\\Users\\Karol Taikhoa Do\\Source\\Repos\\programowanie-aplikacji-mobilnych-lab1-local\\P04WeatherForecastAPI.Client\\P04WeatherForecastAPI.Client.csproj",
       "packagesPath": "C:\\Users\\Karol Taikhoa Do\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Karol Taikhoa Do\\Downloads\\20Dzien11-master\\P04WeatherForecastAPI.Client\\obj\\",
+      "outputPath": "C:\\Users\\Karol Taikhoa Do\\Source\\Repos\\programowanie-aplikacji-mobilnych-lab1-local\\P04WeatherForecastAPI.Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Karol Taikhoa Do\\AppData\\Roaming\\NuGet\\NuGet.Config",

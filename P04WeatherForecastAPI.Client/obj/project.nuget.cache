@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BNVGdKuwH3jzHxiaz5zdqvhDb/tOaRQrtEsN7p49QfNNZ+wz+cw1ytKsYYxQGZT9RJY/iRbuRPqxZaAe99M93A==",
+  "dgSpecHash": "rD7nVF4cg55w0RCnfF0x16XpzwUAbNmXjqrJmOPhI5hkJCfgRK9A1GeSblJxXPCVDgGf+Xn8xdorU5CZlnOnag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Karol Taikhoa Do\\Downloads\\20Dzien11-master\\P04WeatherForecastAPI.Client\\P04WeatherForecastAPI.Client.csproj",
+  "projectFilePath": "C:\\Users\\Karol Taikhoa Do\\source\\repos\\programowanie-aplikacji-mobilnych-lab1-local\\P04WeatherForecastAPI.Client\\P04WeatherForecastAPI.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Karol Taikhoa Do\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\Karol Taikhoa Do\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",

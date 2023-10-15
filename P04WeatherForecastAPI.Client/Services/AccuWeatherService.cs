@@ -16,6 +16,11 @@ namespace P04WeatherForecastAPI.Client.Services
         private const string base_url = "http://dataservice.accuweather.com";
         private const string autocomplete_endpoint = "locations/v1/cities/autocomplete?apikey={0}&q={1}&language{2}";
         private const string current_conditions_endpoint = "currentconditions/v1/{0}?apikey={1}&language{2}";
+        private const string todays_description_endpoint = "forecasts/v1/daily/1day/{0}?apikey={1}&language{2}";
+        private const string yesterday_description_endpoint = "/currentconditions/v1/{0}?apikey={1}&language{2}/historical/24";
+        private const string next_hour_description_endpoint = "/forecasts/v1/hourly/1hour/{0}?apikey={1}&language{2}";
+        private const string next_12h_description_endpoint = "/forecasts/v1/hourly/12hour/{0}?apikey={1}&language{2}";
+        private const string next_5days_description_endpoint = "/forecasts/v1/daily/5day/{0}?apikey={1}&language{2}";
 
         // private const string api_key = "5hFl75dja3ZuKSLpXFxUzSc9vXdtnwG5";
         string api_key;
@@ -59,5 +64,18 @@ namespace P04WeatherForecastAPI.Client.Services
                 return weathers.FirstOrDefault();
             }
         }
+
+        public async Task<Forecast> GetTodaysDescription(string cityKey)
+        {
+            string uri = base_url + "/" + string.Format(todays_description_endpoint, cityKey, api_key, language);
+            using (HttpClient client = new HttpClient())
+            {
+                var response = await client.GetAsync(uri);
+                string json = await response.Content.ReadAsStringAsync();
+                Forecast forecast = JsonConvert.DeserializeObject<Forecast>(json);
+                return forecast;
+            }
+        }
+
     }
 }
