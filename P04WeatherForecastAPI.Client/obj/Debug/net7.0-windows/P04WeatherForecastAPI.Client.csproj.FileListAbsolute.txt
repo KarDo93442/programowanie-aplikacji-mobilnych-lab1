@@ -1,0 +1,66 @@
+C:\Users\userl\Desktop\20Dzien11-master\P04WeatherForecastAPI.Client\bin\Debug\net7.0-windows\appsetings.json
+C:\Users\userl\Desktop\20Dzien11-master\P04WeatherForecastAPI.Client\bin\Debug\net7.0-windows\P04WeatherForecastAPI.Client.exe
+C:\Users\userl\Desktop\20Dzien11-master\P04WeatherForecastAPI.Client\bin\Debug\net7.0-windows\P04WeatherForecastAPI.Client.deps.json
+C:\Users\userl\Desktop\20Dzien11-master\P04WeatherForecastAPI.Client\bin\Debug\net7.0-windows\P04WeatherForecastAPI.Client.runtimeconfig.json
+C:\Users\userl\Desktop\20Dzien11-master\P04WeatherForecastAPI.Client\bin\Debug\net7.0-windows\P04WeatherForecastAPI.Client.dll
+C:\Users\userl\Desktop\20Dzien11-master\P04WeatherForecastAPI.Client\bin\Debug\net7.0-windows\P04WeatherForecastAPI.Client.pdb
+C:\Users\userl\Desktop\20Dzien11-master\P04WeatherForecastAPI.Client\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\userl\Desktop\20Dzien11-master\P04WeatherForecastAPI.Client\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\userl\Desktop\20Dzien11-master\P04WeatherForecastAPI.Client\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\userl\Desktop\20Dzien11-master\P04WeatherForecastAPI.Client\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\userl\Desktop\20Dzien11-master\P04WeatherForecastAPI.Client\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\userl\Desktop\20Dzien11-master\P04WeatherForecastAPI.Client\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\userl\Desktop\20Dzien11-master\P04WeatherForecastAPI.Client\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\userl\Desktop\20Dzien11-master\P04WeatherForecastAPI.Client\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\userl\Desktop\20Dzien11-master\P04WeatherForecastAPI.Client\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\userl\Desktop\20Dzien11-master\P04WeatherForecastAPI.Client\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\userl\Desktop\20Dzien11-master\P04WeatherForecastAPI.Client\obj\Debug\net7.0-windows\P04WeatherForecastAPI.Client.csproj.AssemblyReference.cache
+C:\Users\userl\Desktop\20Dzien11-master\P04WeatherForecastAPI.Client\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\userl\Desktop\20Dzien11-master\P04WeatherForecastAPI.Client\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\userl\Desktop\20Dzien11-master\P04WeatherForecastAPI.Client\obj\Debug\net7.0-windows\P04WeatherForecastAPI.Client_MarkupCompile.cache
+C:\Users\userl\Desktop\20Dzien11-master\P04WeatherForecastAPI.Client\obj\Debug\net7.0-windows\P04WeatherForecastAPI.Client_MarkupCompile.lref
+C:\Users\userl\Desktop\20Dzien11-master\P04WeatherForecastAPI.Client\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\userl\Desktop\20Dzien11-master\P04WeatherForecastAPI.Client\obj\Debug\net7.0-windows\P04WeatherForecastAPI.Client.g.resources
+C:\Users\userl\Desktop\20Dzien11-master\P04WeatherForecastAPI.Client\obj\Debug\net7.0-windows\P04WeatherForecastAPI.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userl\Desktop\20Dzien11-master\P04WeatherForecastAPI.Client\obj\Debug\net7.0-windows\P04WeatherForecastAPI.Client.AssemblyInfoInputs.cache
+C:\Users\userl\Desktop\20Dzien11-master\P04WeatherForecastAPI.Client\obj\Debug\net7.0-windows\P04WeatherForecastAPI.Client.AssemblyInfo.cs
+C:\Users\userl\Desktop\20Dzien11-master\P04WeatherForecastAPI.Client\obj\Debug\net7.0-windows\P04WeatherForecastAPI.Client.csproj.CoreCompileInputs.cache
+C:\Users\userl\Desktop\20Dzien11-master\P04WeatherForecastAPI.Client\obj\Debug\net7.0-windows\P04WeatherForecastAPI.Client.csproj.CopyComplete
+C:\Users\userl\Desktop\20Dzien11-master\P04WeatherForecastAPI.Client\obj\Debug\net7.0-windows\P04WeatherForecastAPI.Client.dll
+C:\Users\userl\Desktop\20Dzien11-master\P04WeatherForecastAPI.Client\obj\Debug\net7.0-windows\refint\P04WeatherForecastAPI.Client.dll
+C:\Users\userl\Desktop\20Dzien11-master\P04WeatherForecastAPI.Client\obj\Debug\net7.0-windows\P04WeatherForecastAPI.Client.pdb
+C:\Users\userl\Desktop\20Dzien11-master\P04WeatherForecastAPI.Client\obj\Debug\net7.0-windows\P04WeatherForecastAPI.Client.genruntimeconfig.cache
+C:\Users\userl\Desktop\20Dzien11-master\P04WeatherForecastAPI.Client\obj\Debug\net7.0-windows\ref\P04WeatherForecastAPI.Client.dll
+C:\Users\Karol Taikhoa Do\Downloads\20Dzien11-master\P04WeatherForecastAPI.Client\bin\Debug\net7.0-windows\appsetings.json
+C:\Users\Karol Taikhoa Do\Downloads\20Dzien11-master\P04WeatherForecastAPI.Client\bin\Debug\net7.0-windows\P04WeatherForecastAPI.Client.exe
+C:\Users\Karol Taikhoa Do\Downloads\20Dzien11-master\P04WeatherForecastAPI.Client\bin\Debug\net7.0-windows\P04WeatherForecastAPI.Client.deps.json
+C:\Users\Karol Taikhoa Do\Downloads\20Dzien11-master\P04WeatherForecastAPI.Client\bin\Debug\net7.0-windows\P04WeatherForecastAPI.Client.runtimeconfig.json
+C:\Users\Karol Taikhoa Do\Downloads\20Dzien11-master\P04WeatherForecastAPI.Client\bin\Debug\net7.0-windows\P04WeatherForecastAPI.Client.dll
+C:\Users\Karol Taikhoa Do\Downloads\20Dzien11-master\P04WeatherForecastAPI.Client\bin\Debug\net7.0-windows\P04WeatherForecastAPI.Client.pdb
+C:\Users\Karol Taikhoa Do\Downloads\20Dzien11-master\P04WeatherForecastAPI.Client\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Karol Taikhoa Do\Downloads\20Dzien11-master\P04WeatherForecastAPI.Client\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Karol Taikhoa Do\Downloads\20Dzien11-master\P04WeatherForecastAPI.Client\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Karol Taikhoa Do\Downloads\20Dzien11-master\P04WeatherForecastAPI.Client\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Karol Taikhoa Do\Downloads\20Dzien11-master\P04WeatherForecastAPI.Client\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Karol Taikhoa Do\Downloads\20Dzien11-master\P04WeatherForecastAPI.Client\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Karol Taikhoa Do\Downloads\20Dzien11-master\P04WeatherForecastAPI.Client\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Karol Taikhoa Do\Downloads\20Dzien11-master\P04WeatherForecastAPI.Client\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Karol Taikhoa Do\Downloads\20Dzien11-master\P04WeatherForecastAPI.Client\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Karol Taikhoa Do\Downloads\20Dzien11-master\P04WeatherForecastAPI.Client\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\Karol Taikhoa Do\Downloads\20Dzien11-master\P04WeatherForecastAPI.Client\obj\Debug\net7.0-windows\P04WeatherForecastAPI.Client.csproj.AssemblyReference.cache
+C:\Users\Karol Taikhoa Do\Downloads\20Dzien11-master\P04WeatherForecastAPI.Client\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Karol Taikhoa Do\Downloads\20Dzien11-master\P04WeatherForecastAPI.Client\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Karol Taikhoa Do\Downloads\20Dzien11-master\P04WeatherForecastAPI.Client\obj\Debug\net7.0-windows\P04WeatherForecastAPI.Client_MarkupCompile.cache
+C:\Users\Karol Taikhoa Do\Downloads\20Dzien11-master\P04WeatherForecastAPI.Client\obj\Debug\net7.0-windows\P04WeatherForecastAPI.Client_MarkupCompile.lref
+C:\Users\Karol Taikhoa Do\Downloads\20Dzien11-master\P04WeatherForecastAPI.Client\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Karol Taikhoa Do\Downloads\20Dzien11-master\P04WeatherForecastAPI.Client\obj\Debug\net7.0-windows\P04WeatherForecastAPI.Client.g.resources
+C:\Users\Karol Taikhoa Do\Downloads\20Dzien11-master\P04WeatherForecastAPI.Client\obj\Debug\net7.0-windows\P04WeatherForecastAPI.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karol Taikhoa Do\Downloads\20Dzien11-master\P04WeatherForecastAPI.Client\obj\Debug\net7.0-windows\P04WeatherForecastAPI.Client.AssemblyInfoInputs.cache
+C:\Users\Karol Taikhoa Do\Downloads\20Dzien11-master\P04WeatherForecastAPI.Client\obj\Debug\net7.0-windows\P04WeatherForecastAPI.Client.AssemblyInfo.cs
+C:\Users\Karol Taikhoa Do\Downloads\20Dzien11-master\P04WeatherForecastAPI.Client\obj\Debug\net7.0-windows\P04WeatherForecastAPI.Client.csproj.CoreCompileInputs.cache
+C:\Users\Karol Taikhoa Do\Downloads\20Dzien11-master\P04WeatherForecastAPI.Client\obj\Debug\net7.0-windows\P04WeatherForecastAPI.Client.csproj.CopyComplete
+C:\Users\Karol Taikhoa Do\Downloads\20Dzien11-master\P04WeatherForecastAPI.Client\obj\Debug\net7.0-windows\P04WeatherForecastAPI.Client.dll
+C:\Users\Karol Taikhoa Do\Downloads\20Dzien11-master\P04WeatherForecastAPI.Client\obj\Debug\net7.0-windows\refint\P04WeatherForecastAPI.Client.dll
+C:\Users\Karol Taikhoa Do\Downloads\20Dzien11-master\P04WeatherForecastAPI.Client\obj\Debug\net7.0-windows\P04WeatherForecastAPI.Client.pdb
+C:\Users\Karol Taikhoa Do\Downloads\20Dzien11-master\P04WeatherForecastAPI.Client\obj\Debug\net7.0-windows\P04WeatherForecastAPI.Client.genruntimeconfig.cache
+C:\Users\Karol Taikhoa Do\Downloads\20Dzien11-master\P04WeatherForecastAPI.Client\obj\Debug\net7.0-windows\ref\P04WeatherForecastAPI.Client.dll
