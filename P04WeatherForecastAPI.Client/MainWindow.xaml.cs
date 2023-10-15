@@ -57,7 +57,8 @@ namespace P04WeatherForecastAPI.Client
                 var todaysweatherdesc = await accuWeatherService.GetTodaysDescription(selectedCity.Key);
                 lblTodaysDesc.Content = todaysweatherdesc.headline.text;
 
-
+                var yesterdayDesc = await accuWeatherService.GetYesterdayDescription(selectedCity.Key);
+                lblYesterdayDesc.Content = yesterdayDesc.WeatherText;
             }
         }
     }

@@ -21,7 +21,7 @@
             <Label Content="Today's weather description:"/>
             <Label x:Name="lblTodaysDesc" Content="" Height="50"/>
             <Label Content="Yesterday's weather description:"/>
-            <Label Content="" Height="50"/>
+            <Label x:Name="lblYesterdayDesc" Content="" Height="50"/>
         </StackPanel>
         <StackPanel>
             <Label Content="Conditions within:"/>

@@ -77,5 +77,17 @@ namespace P04WeatherForecastAPI.Client.Services
             }
         }
 
+        public async Task<Weather> GetYesterdayDescription(string cityKey)
+        {
+            string uri = base_url + "/" + string.Format(yesterday_description_endpoint, cityKey, api_key, language);
+            using (HttpClient client = new HttpClient())
+            {
+                var response = await client.GetAsync(uri);
+                string json = await response.Content.ReadAsStringAsync();
+                Weather[] weathers = JsonConvert.DeserializeObject<Weather[]>(json);
+                return weathers.FirstOrDefault();
+            }
+        }
+
     }
 }
